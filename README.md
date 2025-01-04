@@ -1,4 +1,4 @@
-#### I’m just a tech. <a href="https://github.com/marques-gabriel"><img title="GitHub" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> </a>
+#### _I’m just a tech. Currently focused on bioinformatics_ 🧬 <a href="https://github.com/marques-gabriel"><img title="GitHub" width="16" height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> </a>
 
 ##
 
